@@ -1,0 +1,14 @@
+20230814	11:19:25	50f5bb70-018a-421c-a86e-d28d2104035c	GET	undefined	/
+20230814	11:19:25	ecf478e5-446d-4777-9945-9ec5ba0afdff	GET	undefined	/css/style.css
+20230814	11:19:25	3a60bb5c-15c5-4c4b-94ec-50029e9495b1	GET	undefined	/favicon.ico
+20230814	11:19:36	58badb55-e8d3-49ee-bd03-bf22ab1a9fbc	GET	undefined	/404
+20230814	11:19:36	8e25d354-958a-4551-830a-6f4deb434324	GET	undefined	/favicon.ico
+20230814	11:19:43	4d5bb089-7fea-43ba-873f-ea7657e6c307	GET	undefined	/favicon.ico
+20230814	11:19:51	f4597b8f-0821-432b-9fcd-b5afd9f134c3	GET	undefined	/hello
+20230814	11:19:51	bb5d980f-958f-455a-a0b5-da739f824be6	GET	undefined	/favicon.ico
+20230814	11:19:54	448fb7a2-5ae1-46bf-b459-f92ea3a9af4d	GET	undefined	/favicon.ico
+20230814	11:19:56	a298550b-704e-4c7e-ab17-a5f9d32d150b	GET	undefined	/
+20230814	11:19:56	cb012511-5cf1-4c2c-8873-d986bd9ed85d	GET	undefined	/css/style.css
+20230814	11:27:31	71cefb92-4f04-4ec7-afa1-d094fe695d92	GET	undefined	/
+20230814	11:27:31	2b4974cf-f8b1-4a70-b592-8fe36c8f79ab	GET	undefined	/css/style.css
+20230814	11:27:31	aaf3ea21-24b3-4c02-90c5-176d709ad1e1	GET	undefined	/favicon.ico
